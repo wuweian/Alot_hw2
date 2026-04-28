@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+raw_data.json
+test_struct.json
